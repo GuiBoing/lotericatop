@@ -1,0 +1,7 @@
+http://loterias.caixa.gov.br/wps/portal/loterias/landing/lotofacil
+http://loterias.caixa.gov.br/wps/portal/loterias/landing/lotomania
+http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena
+http://loterias.caixa.gov.br/wps/portal/loterias/landing/quina
+
+
+regras dos jogos
